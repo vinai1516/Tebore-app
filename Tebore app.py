@@ -11,8 +11,8 @@ st.set_page_config(page_title="Telangana Cultural Books", layout="centered")
 DATA_FILE = "users.csv"
 
 # ---------- EMAIL SETTINGS ----------
-SENDER_EMAIL = "your_email@gmail.com"  # Replace with your Gmail
-SENDER_PASSWORD = "your_app_password"  # Use Gmail App Password
+SENDER_EMAIL = "ravilalavinai@gmail.com"  # Replace with your Gmail
+SENDER_PASSWORD = "vinai@123"  # Use Gmail App Password
 RECEIVER_EMAIL = "ravilalavinai@gmail.com"
 
 def send_email(username, email, contact):
